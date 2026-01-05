@@ -8,7 +8,7 @@ const AboutPage = () => {
       {/* About Hero Section */}
       <section className="about-hero">
         <div className="container">
-          <div className="juwa-logo-large">
+          <div className="novaspin-logo-large">
             <img src="/novaspin-logo.png" alt="Welcome to NovaSpin" />
           </div>
           <h1 className="about-title">Safe, Fair & Rewarding</h1>

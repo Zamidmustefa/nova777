@@ -118,7 +118,7 @@ const ContactPage = () => {
 
               <div className="support-card">
                 <h3 className="support-title">Email support</h3>
-                <p className="support-text">Info@juwa777.com</p>
+                <p className="support-text">Info@novaspin777.com</p>
               </div>
 
               <div className="support-card">
@@ -147,7 +147,7 @@ export default ContactPage
 
 export const Head = () => (
   <>
-    <title>Contact Juwa777 - Get Help & Support | juwa777.com</title>
-    <meta name="description" content="Contact Juwa777 for support, questions, or assistance. Get help with downloading, installation, or gameplay. Entertainment only. No real-money gambling. 18+." />
+    <title>Contact NovaSpin777 - Get Help & Support | novaspin777.com</title>
+    <meta name="description" content="Contact NovaSpin777 for support, questions, or assistance. Get help with downloading, installation, or gameplay. Entertainment only. No real-money gambling. 18+." />
   </>
 )

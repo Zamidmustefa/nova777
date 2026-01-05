@@ -5,11 +5,11 @@
   text-align: center;
 }
 
-.juwa-logo-large {
-  margin-bottom: 40px;
+.novaspin-logo-large {
+  margin-bottom: 2rem;
 }
 
-.juwa-logo-large img {
+.novaspin-logo-large img {
   height: 18rem;
   max-width: 18rem;
 }
@@ -246,7 +246,7 @@
     padding: 60px 20px 40px;
   }
   
-  .juwa-logo-large img {
+  .novaspin-logo-large img {
     height: 140px;
   }
   
@@ -298,7 +298,7 @@
 }
 
 @media (max-width: 480px) {
-  .juwa-logo-large img {
+  .novaspin-logo-large img {
     height: 100px;
   }
   

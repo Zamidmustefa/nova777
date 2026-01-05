@@ -23,7 +23,7 @@ const IndexPage = () => {
   ]
 
   const partners = [
-    { name: 'Juwa Bros', image: 'partner1.png' },
+    { name: 'NovaSpin Partners', image: 'partner1.png' },
     { name: 'Daily Bonus', content: 'bonus' },
   ]
 
@@ -104,7 +104,7 @@ const IndexPage = () => {
             <div className="carousel-content">
               {currentSlide === 0 ? (
                 <div className="partner-card partner-black">
-                  <h3 className="partner-brand">JUWA<br />BROS</h3>
+                  <h3 className="partner-brand">NOVASPIN<br />PARTNERS</h3>
                 </div>
               ) : (
                 <div className="partner-card partner-green">

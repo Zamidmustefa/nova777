@@ -101,7 +101,7 @@ export default GamesPage
 
 export const Head = () => (
   <>
-    <title>Juwa777 Games - Free Casino Games | Slots, Fish Games & Keno</title>
-    <meta name="description" content="Play over 100 free casino games on Juwa777 including slots, fish shooting games, and keno. Entertainment only. No real-money gambling. 18+." />
+    <title>NovaSpin777 Games - Free Casino Games | Slots, Fish Games & Keno</title>
+    <meta name="description" content="Play over 100 free casino games on NovaSpin777 including slots, fish shooting games, and keno. Entertainment only. No real-money gambling. 18+." />
   </>
 )
